@@ -28,12 +28,12 @@ there are two places the picture needs to be updated
 
 ### Animations to make gifts dissapear
 
-1. On the Home tab, in the Editing group, click Select and then click Selection Pane.
+1. On the Home tab, in the Editing group, click "Select" and then click "Selection Pane".
 1. The Selection Pane will open on the right side of the screen and will display a list of all the objects on the current slide in the order they were inserted.
 1. rename the to present x and drag it in present order at the top of the list to keep track of this image for the animation to make it dissapear (note alphabetical order is not a feature *tear*)
 1. then once the present is selected go to animation -> choose "fade" under "exit"
-1. then ensure "onclick is selcted with duration 00.05
-1. next to this click on the tigger icon -> "on click of" then choose present x from previous step.
+1. then ensure "Onclick" is selcted with duration 00.05
+1. next to this click on the tigger icon -> "On click of" then choose present x from previous step.
 
 ## Before the game
 1. Ranomly select participant order - You can achieve this by adding names to the random order generating python code provided, or however you please.

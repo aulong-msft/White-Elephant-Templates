@@ -44,6 +44,7 @@ there are two places the picture needs to be updated
 ## During the game
 1. whoever opens the present gets their name added to the list!
 the last one on the list recieves the present!
+1. Once you click on a gift it will link out to a powerpoint with that gift, click on the home button once the animation/gift reveal is finnished!
 
 ## After the game
 1. let folks know to reach out to the people they received presents from and provide their address so gifts can get sent out.

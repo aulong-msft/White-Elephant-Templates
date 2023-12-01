@@ -43,4 +43,4 @@ there are two places the picture needs to be updated
 the last one on the list recieves the present!
 
 ## After the game
-1. let folks know to reach out to the people they received presents from and provide their addressso gifts can get sent out.
+1. let folks know to reach out to the people they received presents from and provide their address so gifts can get sent out.

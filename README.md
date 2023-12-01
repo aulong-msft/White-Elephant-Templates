@@ -2,17 +2,16 @@
 
 ## Sending Survey and Email to Interested Participants
 
-1. **Create Survey**: Develop a Microsoft Form requesting participant name, email, and interest in the gift exchange. Utilize the 'White Elephant Survey' template or customize it to suit our needs.
+- **Create Survey**: Develop a Microsoft Form requesting participant name, email, and interest in the gift exchange. Utilize the 'White Elephant Survey' template or customize it to suit our needs.
    
    - Ensure to update names and dates according to the event.
    
-2. **Email Template**: Use the provided email template, customized with updated information, to send out the survey to potential participants.
-
-3. **Schedule Meeting**: Once suitable timings for all are identified, send a meeting invite for an approximate 2-hour duration.
+- **Email Template**: Use the provided email template, customized with updated information, to send out the survey to potential participants.
+- **Schedule Meeting**: Once suitable timings for all are identified, send a meeting invite for an approximate 2-hour duration.
 
 ## Setting up the PowerPoint Presentation
 
-1. **Instructions for Participants**: Ask interested individuals to provide their name and a picture of the gift they intend to bring.
+- **Instructions for Participants**: Ask interested individuals to provide their name and a picture of the gift they intend to bring.
 
 ### Updating Ice Breaker Questions
 

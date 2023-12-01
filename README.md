@@ -41,7 +41,8 @@
 
 ## During the Game
 
-- The participant who opens a gift gets their name added to the list.
+- Ensure Thumnails are hidden! we dont want sneak peaks!
+-  The participant who opens a gift gets their name added to the list. (exit presentation mode and modify the list)
 - The last person on the list receives the final present.
 - Clicking on a gift in the presentation will reveal the corresponding slide.
 

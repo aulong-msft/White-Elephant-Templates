@@ -31,14 +31,22 @@ The powerpoint is pre-populated with 18 gifts from a  previous gift exchange, en
 ### Adding a New Gift and Linking to a Slide
 
 1. Duplicate a previous slide containing animations.
-2. Insert a unique picture of a new gift.
-3. Update Slide 4 with a smaller image and relevant text for the new gift.
-4. Set the hyperlink to the corresponding slide.
+1. Then add a unique picture of a present
+1. On slide 4 add a smaller picture of that present and the text next to it.
+1. Set the Hyperlink by selecting the picture you want to add the hyperlink to
+1. Go to the "Insert" tab on the PowerPoint ribbon.
+1. Click on "Link" or "Action" (the wording may vary depending on your PowerPoint version).
+1. In the dialog box that appears, choose "Hyperlink to" and then select "Slide...".
+1. Choose the slide you want to link to and click "OK".
 
 ### Animations for Gift Disappearance
 
-1. Access the Selection Pane to rename and reorder objects for animation.
-2. Apply a fade animation to make gifts disappear on click.
+1. On the Home tab, in the Editing group, click "Select" and then click "Selection Pane".
+1. The Selection Pane will open on the right side of the screen and will display a list of all the objects on the current slide in the order they were inserted.
+1. rename the to present x and drag it in present order at the top of the list to keep track of this image for the animation to make it dissapear (note alphabetical order is not a feature *tear*)
+1. then once the present is selected go to animation -> choose "fade" under "exit"
+1. then ensure "Onclick" is selcted with duration 00.05
+1. next to this click on the tigger icon -> "On click of" then choose present x from previous step.
 
 ## Preparing Before the Game
 

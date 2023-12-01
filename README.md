@@ -35,13 +35,12 @@ there are two places the picture needs to be updated
 1. then ensure "onclick is selcted with duration 00.05
 1. next to this click on the tigger icon -> "on click of" then choose present x from previous step.
 
-### Before the Game
+## Before the game
 1. Ranomly select participant order - You can achieve this by adding names to the random order generating python code provided, or however you please.
 
-### During Presentation
-
+## During the game
 1. whoever opens the present gets their name added to the list!
 the last one on the list recieves the present!
 
-### After the game
+## After the game
 1. let folks know to reach out to the people they received presents from and provide their addressso gifts can get sent out.

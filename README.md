@@ -1,9 +1,11 @@
-## Step  Send a Survey to see who is interested in participating
+## Send a survey and email to see who is interested in participating
 
 1. Create a MSFT Form where you ask for the participants name, email address, and asking them if they would like to participate in the gift exchange. Please refer to the white elephnant survey template to copy paste in some
 1. if using the template provided, ensure your ad it over and update names and dates of when things are happening.
+1. you can use the email template provided as well to send the email out, also ensure it is updated.
+1. once you find a time that works well for all, send out a meeting invite for ~2 hours in duration.
 
-## Step Set up the powerpoint
+## Set up the powerpoint
 
 Once you send out a survey to see who is interested in joining in on the game, the directions state those folks should provide with you a name and picture of the present they want to put into the gift exchange
 

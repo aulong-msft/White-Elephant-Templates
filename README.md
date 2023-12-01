@@ -54,7 +54,8 @@ The powerpoint is pre-populated with 18 gifts from a  previous gift exchange, en
 ## During the Game
 
 - Ensure Thumbnails are hidden! we dont want sneak peaks!
--  The participant who opens a gift gets their name added to the list. (exit presentation mode and modify the list, also remove the picture of the present)
+-  The participant who opens a gift gets their name added to the list by exiiting presentation mode and modifying the list
+-  When exiting the powerpoint, also remove the picture of the present
 - The last person on the list receives the final present.
 - Clicking on a gift in the presentation will reveal the corresponding slide.
 

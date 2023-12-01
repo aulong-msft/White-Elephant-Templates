@@ -19,9 +19,14 @@
 - Edit Slide 2 with ice breaker questions to make them more engaging and suitable for the group.
 
 ### Updating PowerPoint with Gifts
+The powerpoint is pre-populated with 18 gifts from a  previous gift exchange, ensure the extras are removed, or add new ones (guidance below)!
 
 - Remove any additional gifts or add new ones as needed.
 - Update the picture and name of each gift on the relevant slides.
+     - Behind the gift picture on slide 4 (the gift picture is hidden underneath the present picture)
+     - Behind the gift box picture on whichever slide that gift is shown, this is also where the name of the gift will be updated.
+     - Then in the list on powerpoint slide 4 add the name of the original gift giver, that way they know which gift is theirs! Since this exchange is virtual, we need to make some expectation on who actually owns which gift.
+
 
 ### Adding a New Gift and Linking to a Slide
 
